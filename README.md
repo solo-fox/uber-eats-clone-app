@@ -8,13 +8,6 @@
 <h4 align="center">Uber eats clone app made for training on Youtube <a href="http://electron.atom.io" target="_blank">Javascript</a>.</h4>
 
 <p align="center">
-  <a href="https://www.paypal.me/tkssharma">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
-  
-</p>
-
-<p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
